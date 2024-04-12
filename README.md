@@ -1,3 +1,2 @@
 ### Codewars
-Trying to improve my problem solving!
-https://www.codewars.com/users/meganallas
+Trying to improve my problem solving skills at [Codewars](https://www.codewars.com/users/meganallas)!
