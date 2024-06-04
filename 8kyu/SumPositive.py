@@ -4,7 +4,3 @@ def positive_sum(arr):
         if num > 0:
             sum += num
     return sum
-
-positive_sum([1,2,3,4,5])
-positive_sum([1,-2,3,4,5])
-positive_sum([-1,2,3,4,-5])
